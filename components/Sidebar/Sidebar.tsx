@@ -20,7 +20,7 @@ export const Sidebar: React.FC<any> = () =>{
                 <SidebarLink linkName="Education" linkHref="/education/Education" icon={faGraduationCap}/>
                 <SidebarLink linkName="Work Experience" linkHref="/work/Work" icon={faBriefcase} />
                 <SidebarLink linkName="Text Stack" linkHref="/textstack/TextStack" icon={faCode} />
-                <SidebarLink linkName="Text Stack" linkHref="/motto/Motto" icon={faQuoteLeft} />
+                <SidebarLink linkName="Motto" linkHref="/motto/Motto" icon={faQuoteLeft} />
                 <SidebarLink linkName=" Dynamic Sample 1" linkHref="/dynamic/sample1" icon={faGlobe} />
                 <SidebarLink linkName=" Dynamic Sample 2" linkHref="/dynamic/sample2" icon={faGlobe} />
                 <SidebarLink linkName=" Dynamic Sample 3" linkHref="/dynamic/sample3" icon={faGlobe} />
