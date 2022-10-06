@@ -1,0 +1,18 @@
+.main_content{
+    margin-left: 300px;
+    padding: 5em;
+    height: 100vh;
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px dashed red; */
+}
+
+.content_box{
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 2em;
+    border-radius: 25px;
+    min-height: 500px;
+}
